@@ -24,7 +24,7 @@ body{
 #main-header h1{
     margin-top: 10px;
     margin-bottom: 0;
-    
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #main-header small{
@@ -71,6 +71,11 @@ body{
 
 #main h3{
    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#main ul{
+   font-family: 'Times New Roman', Times, serif;
 }
 
 #main p{
